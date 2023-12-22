@@ -14,6 +14,6 @@ In order to run it you have to
 - Reload your Fishtank page
 
 Upcoming changes:
-- Make it so it doesn't switch to the room chats when you switch rooms
+- Add an option to stay in the Global chatroom regardless of the camera you're watching
 
 Half of it was done using ChatGPT since I barely know js so don't scream at me if it breaks :)
