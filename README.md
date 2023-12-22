@@ -1,7 +1,7 @@
 # fishtank-room-clicker
-Chrome extension to switch cameras by clicking on doors
+Browser extension to switch cameras by clicking on doors
 
-IMPORTANT: Since the extension isn't on the Chrome Store, you'll have to reinstall it every once in a while
+**IMPORTANT: Since the extension isn't on the Chrome Store, you'll have to reinstall it every once in a while**
 
 **Instructions for Chrome:**
 - Click on the Green "Code" button
