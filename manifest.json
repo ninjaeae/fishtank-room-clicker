@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "FishTank Room Clicker",
+  "version": "1.0",
+  "description": "Switch cameras by clicking on doors",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "browser_action": {
+    "default_icon": "128.png",
+    "default_title": "FishTank Room Clicker"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.fishtank.live/"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "128": "128.png"
+  }
+}
