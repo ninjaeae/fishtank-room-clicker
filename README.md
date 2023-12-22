@@ -22,7 +22,7 @@ Browser extension to switch cameras by clicking on doors
 - Click on "Load Temporary Add-on" and select the manifest.json file inside the unzipped folder
 - Reload your Fishtank page
 
-Upcoming changes:
-- Add an option to stay in the Global chatroom regardless of the camera you're watching
+**Upcoming changes:**
+- Add an option to stay in the Global chatroom regardless of which camera you're watching
 
 Half of it was done using ChatGPT since I barely know js so don't scream at me if it breaks :)
