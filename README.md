@@ -18,7 +18,7 @@ IMPORTANT: Since the extension isn't on the Chrome Store, you'll have to reinsta
 - Click on the Green "Code" button
 - Click on "Download Zip"
 - Extract the "fishtank-room-clicker-main" folder from that .zip. The files should be right there
-- In Firefox's url bar, type this without quotation marks _about:debugging#/runtime/this-firefox_
+- In Firefox's url bar, type this and press enter _about:debugging#/runtime/this-firefox_
 - Click on "Load Temporary Add-on" and select the manifest.json file inside the unzipped folder
 - Reload your Fishtank page
 
