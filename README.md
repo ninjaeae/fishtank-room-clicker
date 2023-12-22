@@ -13,4 +13,7 @@ In order to run it you have to
 - Select the unzipped "fishtank-room-clicker-main" folder that has the files right inside
 - Reload your Fishtank page
 
+Upcoming changes:
+- Make it so it doesn't switch to the room chats when you switch rooms
+
 Half of it was done using ChatGPT since I barely know js so don't scream at me if it breaks :)
