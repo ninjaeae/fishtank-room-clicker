@@ -12,3 +12,5 @@ In order to run it you have to
 - Click "Load Unpacked" on the top left of the page
 - Select the unzipped "fishtank-room-clicker-main" folder that has the files right inside
 - Reload your Fishtank page
+
+Half of it was done using ChatGPT since I barely know js so don't scream at me if it breaks :)
