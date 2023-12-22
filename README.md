@@ -15,7 +15,7 @@ Browser extension to switch cameras by clicking on doors
 
 **Instructions for Firefox:**
 - Install it permanently from the Firefox store https://addons.mozilla.org/en-US/firefox/addon/fishtankroomclicker
-- If you prefer to install it manually in a temporary way, use the the instructions below
+- If you prefer to install it manually in a temporary way, follow the the instructions below
 - Click on the Green "Code" button
 - Click on "Download Zip"
 - Extract the "fishtank-room-clicker-main" folder from that .zip. The files should be right there
